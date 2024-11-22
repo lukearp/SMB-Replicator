@@ -61,7 +61,8 @@
             "allowedValues": [
                 "Private",
                 "Public"
-            ]
+            ],
+            "defaultValue": "Private"
         },
         "ports": {
             "type": "array",
